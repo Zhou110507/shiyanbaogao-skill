@@ -1,0 +1,4 @@
+interface:
+  display_name: "实验报告"
+  short_description: "依据课程要求和已确认终稿，制作简洁、准确、可复核的实验报告"
+  default_prompt: "使用 $lab-report，按课程要求和我的原始数据完成报告，语言简洁，交付 PDF 与可编辑源文件。"
